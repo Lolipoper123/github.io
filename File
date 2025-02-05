@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>United Experts - RU</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="United Experts Group - профессиональный консалтинг в области юридических, финансовых и онлайн-услуг. Поддержка проектов ОЭЗ и ТОСЭР.">
+
+    <link rel="shortcut icon" href="/f/fi/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/f/fi/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/f/fi/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/f/fi/favicon-16x16.png">
+    <link rel="manifest" href="/f/fi/site.webmanifest">
+
+    <link rel="stylesheet" type="text/css" href="/libs/uikit/css/uikit.min.css">
+    <link rel="stylesheet" type="text/css" href="/f/main.css?1">
+
+    <script src="/libs/utils.js" defer></script>
+</head>
+<body>
+
+<header>
+    <div class="cnv uk-position-relative">
+        <a class="pa logo" href="/ru"></a>
+        <ul class="pa m1 uk-visible@s">
+            <li class="group">
+                <a href="/ru/services">Услуги</a>
+                <ul>
+                    <li><a href="/ru/services/our-focus">Наша направленность</a></li>
+                    <li><a href="/ru/services/corporate_consulting">Юридические услуги</a></li>
+                    <li><a href="/ru/services/financial-consulting">Практика финансового консалтинга</a></li>
+                    <li><a href="/ru/services/due-diligence">Due Diligence</a></li>
+                    <li><a href="/ru/services/oez">Поддержка проекта ОЭЗ «Тольятти»</a></li>
+                    <li><a href="/ru/services/toser">Поддержка проекта ТОСЭР «Тольятти»</a></li>
+                    <li><a href="/ru/services/jd">Поддержка резидентов Технопарка «Жигулевская долина»</a></li>
+                    <li><a href="/ru/services/legalweb">Поддержка он-лайн проектов и веб-сайтов</a></li>
+                </ul>
+            </li>
+            <li class="group">
+                <a href="/ru/about">О группе компаний</a>
+                <ul>
+                    <li><a href="/ru/about/index">United Experts Group</a></li>
+                    <li><a href="/ru/about/experience">Наш опыт</a></li>
+                    <li><a href="/ru/about/personalii">Персоналии</a></li>
+                    <li><a href="/ru/about/info">Контакты</a></li>
+                </ul>
+            </li>
+            <li><a href="/page.php?ID=29">Контакты</a></li>
+        </ul>
+        <button class="uk-hidden@s pa open-menu" uk-toggle="target: #menu" type="button"></button>
+        <a class="pa lng" href="/en">EN</a>
+    </div>
+</header>
+
+<div class="bx"></div>
+
+<div class="uk-position-relative uk-visible-toggle uk-light slider-box" uk-slideshow="min-height: 240; max-height: 500; animation: fade; autoplay: true">
+    <ul class="uk-slideshow-items">
+        <li style="background-image: url(/sfiles/lists/30_3_1_0.jpg)">
+            <div class="cnv">
+                <div class="slider-txt-box">
+                    <p>Объединение экспертов<br />профессионального консалтинга</p>
+                    <a href="/ru/about">ПОДРОБНЕЕ</a>
+                </div>
+            </div>
+        </li>
+        <!-- Другие слайды -->
+    </ul>
+    <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+    <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+</div>
+
+<div class="cnv isrvl">
+    <dl>
+        <dt style="background-image: url(/sfiles/lists/30_4_8_0.jpg)"></dt>
+        <dd>
+            <p>ОКАЗЫВАЕМ УСЛУГИ</p>
+            <h5>Правовая поддержка он-лайн проектов и веб-сайтов</h5>
+            <a class="go-more" href="/ru/services/legalweb">ПОДРОБНЕЕ</a>
+        </dd>
+    </dl>
+    <!-- Другие блоки услуг -->
+</div>
+
+<div class="cnv ixtx">
+    <h2>Новости</h2>
+    <p>Июнь 2023. Наш клиент построит мультикомплексный распределительный центр торговой сети в ОЭЗ «Тольятти»</p>
+    <p><a class="go-more" href="http://www.unitedexperts.ru/ru/news/logistics-center-new-sez-resident">ПОДРОБНЕЕ</a></p>
+</div>
+
+<footer>
+    <div class="cnv">
+        <div uk-grid>
+            <div class="uk-width-1-2@m">
+                <a class="logo" href="/ru"></a>
+                <h5>АДРЕС</h5>
+                <p>445037, Россия, Тольятти, Новый проезд, 3, ДЦ «Гранд Сити», офис 203</p>
+                <h5>ТЕЛЕФОН</h5>
+                <p>+7 (8482) 510-150</p>
+                <h5>ЭЛ. ПОЧТА</h5>
+                <p><a href="mailto:mail@unitedexperts.ru">mail@unitedexperts.ru</a></p>
+                <p>&copy; ООО "Объединенная правовая компания", United Experts Group, 2007-2024</p>
+            </div>
+            <div class="uk-width-1-4@m">
+                <ul class="m1f">
+                    <li>Услуги
+                        <ul>
+                            <li><a href="/ru/services/our-focus">Наша направленность</a></li>
+                            <li><a href="/ru/services/corporate_consulting">Юридические услуги</a></li>
+                            <li><a href="/ru/services/financial-consulting">Практика финансового консалтинга</a></li>
+                            <li><a href="/ru/services/due-diligence">Due Diligence</a></li>
+                            <li><a href="/ru/services/oez">Поддержка проекта ОЭЗ «Тольятти»</a></li>
+                            <li><a href="/ru/services/toser">Поддержка проекта ТОСЭР «Тольятти»</a></li>
+                            <li><a href="/ru/services/jd">Поддержка резидентов Технопарка «Жигулевская долина»</a></li>
+                            <li><a href="/ru/services/legalweb">Поддержка он-лайн проектов и веб-сайтов</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="uk-width-1-4@m">
+                <ul class="m1f">
+                    <li>О группе компаний
+                        <ul>
+                            <li><a href="/ru/about/index">United Experts Group</a></li>
+                            <li><a href="/ru/about/experience">Наш опыт</a></li>
+                            <li><a href="/ru/about/personalii">Персоналии</a></li>
+                            <li><a href="/ru/about/info">Контакты</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div id="menu" uk-offcanvas="flip: true;mode: push">
+    <div class="uk-offcanvas-bar">
+        <button class="uk-offcanvas-close" type="button" uk-close></button>
+        <ul class="uk-nav uk-nav-parent-icon" uk-nav>
+            <li class="group">
+                <a href="/ru/services">Услуги</a>
+                <ul class="uk-nav-sub">
+                    <li><a href="/ru/services/our-focus">Наша направленность</a></li>
+                    <li><a href="/ru/services/corporate_consulting">Юридические услуги</a></li>
+                    <li><a href="/ru/services/financial-consulting">Практика финансового консалтинга</a></li>
+                    <li><a href="/ru/services/due-diligence">Due Diligence</a></li>
+                    <li><a href="/ru/services/oez">Поддержка проекта ОЭЗ «Тольятти»</a></li>
+                    <li><a href="/ru/services/toser">Поддержка проекта ТОСЭР «Тольятти»</a></li>
+                    <li><a href="/ru/services/jd">Поддержка резидентов Технопарка «Жигулевская долина»</a></li>
+                    <li><a href="/ru/services/legalweb">Поддержка он-лайн проектов и веб-сайтов</a></li>
+                </ul>
+            </li>
+            <li class="group">
+                <a href="/ru/about">О группе компаний</a>
+                <ul class="uk-nav-sub">
+                    <li><a href="/ru/about/index">United Experts Group</a></li>
+                    <li><a href="/ru/about/experience">Наш опыт</a></li>
+                    <li><a href="/ru/about/personalii">Персоналии</a></li>
+                    <li><a href="/ru/about/info">Контакты</a></li>
+                </ul>
+            </li>
+            <li><a href="/page.php?ID=29">Контакты</a></li>
+        </ul>
+    </div>
+</div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(98716450, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/98716450" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script src="/libs/modernizr.js" defer></script>
+<script src="/libs/uikit/js/uikit.min.js" defer></script>
+
+</body>
+</html>
